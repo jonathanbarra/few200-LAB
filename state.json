@@ -1,5 +1,7 @@
 {
   "counter": {
-    "count": 0
-  }
+    "count": 0,
+    "by": 1
+  },
+  "booksFeature": {}
 }
