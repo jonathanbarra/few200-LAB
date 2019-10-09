@@ -5,6 +5,12 @@ export const countIncremented = createAction(
   '[app] count incremented'
 );
 
+// export const countIncremented = function () {
+//   return {
+//     type: '[app] count incremented';
+//   };
+// };
+
 export const countDecremented = createAction(
   '[app] count decremented'
 );
